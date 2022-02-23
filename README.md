@@ -1,8 +1,7 @@
 # MSTT-STVSR
 # Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer (JAG)
 ## Introuction
-This is the official implementation of our paper [Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation) (MSTT_STVSR) published on ***International Journal of Applied Earth Observation and Geoinformation*** (**JAG**). <font color="#FF0000">[Journal link](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation)</font> 
-
+This is the official implementation of our paper [Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation) (MSTT_STVSR) published on ***International Journal of Applied Earth Observation and Geoinformation*** ([**JAG**](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation))
 ### The network structure  
  ![image](/figures/network.png)
  
