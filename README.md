@@ -1,7 +1,7 @@
 # MSTT-STVSR
 # Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer (JAG)
 ## Introuction
-This is the official implementation of our paper [Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation) (MSTT_STVSR) published on ***International Journal of Applied Earth Observation and Geoinformation*** (**JAG**).  
+This is the official implementation of our paper [Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation) (MSTT_STVSR) published on ***International Journal of Applied Earth Observation and Geoinformation*** (**JAG**). [Journal link](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation)
 
 ### The network structure  
  ![image](/figures/network.png)
@@ -16,10 +16,11 @@ This is the official implementation of our paper [Space-time Super-resolution fo
  * CUDA 10.0
  * pytorch 1.x
  * build [DCNv2](https://github.com/CharlesShang/DCNv2)
- * buile [PyFlow](https://github.com/pathak22/pyflow)
+ * build [PyFlow](https://github.com/pathak22/pyflow)
  
  ## Dataset Preparation
- Please download our dataset [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) Code:31ct  
+ We reorganize the satellite video super-resolution data set named [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the Vimeo-90K.
+ Please download our dataset! Code:31ct  
  You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
