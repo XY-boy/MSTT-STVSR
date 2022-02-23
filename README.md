@@ -18,7 +18,8 @@ This is the official implementation of our paper [Space-time Super-resolution fo
  * build [PyFlow](https://github.com/pathak22/pyflow)
  
  ## Dataset Preparation
- We reorganize the satellite video super-resolution data set named [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the Vimeo-90K.
+ We reorganize the satellite video super-resolution data set named [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/).
+ 
  Please download our dataset! Code:31ct  
  You can also train your dataset following the directory sturture below!
  
