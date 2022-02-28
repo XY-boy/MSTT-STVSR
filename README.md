@@ -21,7 +21,7 @@ This is the official implementation of our paper [Space-time Super-resolution fo
  We reorganize the satellite video super-resolution data set named [*Jilin-189*](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/). 
  Finally, We obtained 2,647 video clips as a training set.
  
- Please download our dataset *[189_vime7*](https://pan.baidu.com/s/1Nx7lsS4371AVvrbkABSmmQ) from Baidu Netdisk. Code:31ct  
+ Please download our dataset [*189_vime7*](https://pan.baidu.com/s/1Nx7lsS4371AVvrbkABSmmQ) from Baidu Netdisk. Code:0rc2
  You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
