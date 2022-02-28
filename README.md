@@ -10,17 +10,18 @@ This is the official implementation of our paper [Space-time Super-resolution fo
  
  ### Qualitive results
  ![image](/figures/result.png)
- #### More details can be found in our paper!
+ ### More details can be found in our paper![Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation)
  ## Environment
  * CUDA 10.0
- * pytorch 1.x
+ * pytorch >=1.2
  * build [DCNv2](https://github.com/CharlesShang/DCNv2)
  * build [PyFlow](https://github.com/pathak22/pyflow)
  
  ## Dataset Preparation
- We reorganize the satellite video super-resolution data set named [*Jilin-189*](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/).
+ We reorganize the satellite video super-resolution data set named [*Jilin-189*](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/). 
+ Finally, We obtained 2,647 video clips as a training set.
  
- Please download our dataset! Code:31ct  
+ Please download our dataset *[189_vime7*](https://pan.baidu.com/s/1Nx7lsS4371AVvrbkABSmmQ) from Baidu Netdisk. Code:31ct  
  You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
