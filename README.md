@@ -18,29 +18,18 @@ This is the official implementation of our paper [Space-time Super-resolution fo
  * build [PyFlow](https://github.com/pathak22/pyflow)
  
  ## Dataset Preparation
- We reorganize the satellite video super-resolution data set named [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/).
+ We reorganize the satellite video super-resolution data set named [*Jilin-189*](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/).
  
  Please download our dataset! Code:31ct  
  You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
 trainset--  
-&emsp;|&ensp;train--  
-&emsp;&emsp;|&ensp;LR4x---  
+&emsp;|&ensp;189_vime7--  
+&emsp;&emsp;|&ensp;train---  
 &emsp;&emsp;&emsp;| 000.png  
 &emsp;&emsp;&emsp;| ···.png  
-&emsp;&emsp;&emsp;| 099.png  
-&emsp;&emsp;|&ensp;GT---   
-&emsp;&emsp;|&ensp;Bicubic4x--- 
-
-testset--  
-&emsp;|&ensp;eval--  
-&emsp;&emsp;|&ensp;LR4x---  
-&emsp;&emsp;&emsp;| 000.png  
-&emsp;&emsp;&emsp;| ···.png  
-&emsp;&emsp;&emsp;| 099.png  
-&emsp;&emsp;|&ensp;GT---   
-&emsp;&emsp;|&ensp;Bicubic4x--- 
+&emsp;&emsp;&emsp;| 006.png  
  
  ## Training
 ```
@@ -55,15 +44,16 @@ python test.py
 ## Citation
 If you find our work helpful, please cite:  
 ```
-@ARTICLE{9530280,  
-author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  
-journal={IEEE Transactions on Geoscience and Remote Sensing},  
-title={Satellite Video Super-Resolution via Multiscale Deformable Convolution Alignment and Temporal Grouping Projection},   
-year={2021},  
-volume={},  
-number={},  
-pages={1-19},  
-doi={10.1109/TGRS.2021.3107352}}
+@article{XIAO2022102731,
+title = {Space-time super-resolution for satellite video: A joint framework based on multi-scale spatial-temporal transformer},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {108},
+pages = {102731},
+year = {2022},
+issn = {0303-2434},
+doi = {https://doi.org/10.1016/j.jag.2022.102731},
+url = {https://www.sciencedirect.com/science/article/pii/S0303243422000575},
+}
 ```
 
 ## Acknowledgement
