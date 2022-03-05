@@ -21,7 +21,8 @@
  We reorganize the satellite video super-resolution data set named [*Jilin-189*](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/). 
  Finally, We obtained 2,647 video clips as a training set.
  
- Please download our dataset [*189_vime7*](https://pan.baidu.com/s/1Nx7lsS4371AVvrbkABSmmQ) from Baidu Netdisk. Code:0rc2
+ Please download our dataset [*189_vime7*](https://pan.baidu.com/s/1Nx7lsS4371AVvrbkABSmmQ) from Baidu Netdisk. Code: 0rc2
+ 
  You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
@@ -45,15 +46,14 @@ python test.py
 # Citation
 If you find our work helpful, please cite:  
 ```
-@article{XIAO2022102731,
-title = {Space-time super-resolution for satellite video: A joint framework based on multi-scale spatial-temporal transformer},
-journal = {International Journal of Applied Earth Observation and Geoinformation},
-volume = {108},
-pages = {102731},
-year = {2022},
-issn = {0303-2434},
-doi = {https://doi.org/10.1016/j.jag.2022.102731},
-url = {https://www.sciencedirect.com/science/article/pii/S0303243422000575},
+@article{xiao2022space,
+  title={Space-time super-resolution for satellite video: A joint framework based on multi-scale spatial-temporal transformer},
+  author={Xiao, Yi and Yuan, Qiangqiang and He, Jiang and Zhang, Qiang and Sun, Jing and Su, Xin and Wu, Jialian and Zhang, Liangpei},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={108},
+  pages={102731},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
 
