@@ -10,7 +10,7 @@ This is the official implementation of our paper [Space-time Super-resolution fo
  
  # Qualitive results
  ![image](/figures/fig5.png)
- More details can be found in our paper! [Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation)
+More details can be found in our paper! [Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation)
  # Environment
  * CUDA 10.0
  * pytorch >=1.2
