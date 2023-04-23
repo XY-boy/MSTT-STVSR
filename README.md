@@ -42,12 +42,12 @@ python main.py
 ```
 python test.py
 ```
-# Quantitive results
+# Quantitative results
  ![image](/figures/result.png)
  
- # Qualitive results
+ # Qualitative results
  ![image](/figures/fig5.png)
-*More details can be found in our paper!*
+**More details can be found in our paper!**
 
 # Citation
 If you find our work helpful, please consider to cite it, thank you very much!  
