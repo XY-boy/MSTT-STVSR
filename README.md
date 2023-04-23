@@ -7,7 +7,7 @@ PyTorch codes for "[Space-time Super-resolution for Satellite Video: A Joint Fra
 Wuhan University  
 
 ### :tada::tada: News :tada::tada:
-- Our MSTT is awarded as <font color=#FF000 >**ESI Highly Cited Paper**</font> (TOP 1%)!
+- Our MSTT is awarded as **ESI Highly Cited Paper (TOP 1%)!**
 # The overall network
  ![image](/figures/network.png)
  
