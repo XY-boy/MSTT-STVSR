@@ -49,10 +49,14 @@ python test.py
  ![image](/figures/fig5.png)
 **More details can be found in our paper!**
 
+## Contact
+If you have any questions or suggestions, feel free to contact me.  
+Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
+
 # Citation
-If you find our work helpful, please consider to cite it, thank you very much!  
+If you find our work helpful, please consider citing it. Thank you very much!  
 ```
-@article{xiao2022space,
+@article{xiao2022mstt,
   title={Space-time super-resolution for satellite video: A joint framework based on multi-scale spatial-temporal transformer},
   author={Xiao, Yi and Yuan, Qiangqiang and He, Jiang and Zhang, Qiang and Sun, Jing and Su, Xin and Wu, Jialian and Zhang, Liangpei},
   journal={International Journal of Applied Earth Observation and Geoinformation},
