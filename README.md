@@ -3,7 +3,7 @@
 
 PyTorch codes for "[Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.sciencedirect.com/science/article/pii/S0303243422000575)", **International Journal of Applied Earth Observation and Geoinformation (JAG)**, 2022.
 
-[Yi Xiao](https://xy-boy.github.io/), [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/), [Jiang He](https://jianghe96.github.io/), [Qiang Zhang](https://qzhang95.github.io/), Jiang Sun, Xin Su, Jialian Wu, and [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)<br>
+[Yi Xiao](https://xy-boy.github.io/), [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/), [Jiang He](https://jianghe96.github.io/), [Qiang Zhang](https://qzhang95.github.io/), Jing Sun, Xin Su, Jialian Wu, and [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)<br>
 Wuhan University  
 
 ### :tada::tada: News :tada::tada:
