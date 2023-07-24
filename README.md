@@ -1,5 +1,5 @@
  # MSTT-STVSR (JAG 2022)
- ### 📖[**Paper**](https://www.sciencedirect.com/science/article/pii/S1566253523001100) | 🖼️[**PDF**](/figures/MSTT.pdf)
+ ### 📖[**Paper**](https://www.sciencedirect.com/science/article/pii/S0303243422000575) | 🖼️[**PDF**](/figures/MSTT.pdf)
 
 PyTorch codes for "[Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.sciencedirect.com/science/article/pii/S0303243422000575)", **International Journal of Applied Earth Observation and Geoinformation (JAG)**, 2022.
 
