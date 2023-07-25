@@ -8,7 +8,7 @@ Wuhan University
 
 ### :tada::tada: News :tada::tada:
 - Our MSTT is awarded as **ESI Highly Cited Paper (TOP 1%)!** [[Link](/figures/ESI.png)]
-# The overall network
+## Overall
  ![image](/figures/network.png)
  
  # Environment
@@ -42,19 +42,20 @@ python main.py
 ```
 python test.py
 ```
-# Quantitative results
+## Quantitative results
  ![image](/figures/result.png)
  
- # Qualitative results
+## Qualitative results
  ![image](/figures/fig5.png)
 **More details can be found in our paper!**
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
-Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
+Email: xiao_yi@whu.edu.cn  
+Tel: (+86) 15927574475 (WeChat)
 
 # Citation
-If you find our work helpful, please consider citing it. Thank you very much!  
+If you find our work helpful, please consider citing it. Thank you very much!
 ```
 @article{xiao2022mstt,
   title={Space-time super-resolution for satellite video: A joint framework based on multi-scale spatial-temporal transformer},
