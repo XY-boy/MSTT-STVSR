@@ -15,10 +15,10 @@ Wuhan University
  ![image](/figures/network.png)
  
  ## Environment
- * CUDA 10.0
- * pytorch >=1.2
- * build [DCNv2](https://github.com/CharlesShang/DCNv2)
- * build [PyFlow](https://github.com/pathak22/pyflow)
+ > * CUDA 10.0
+ > * pytorch >=1.2
+ > * build [DCNv2](https://github.com/CharlesShang/DCNv2)
+ > * build [PyFlow](https://github.com/pathak22/pyflow)
  
  ## Dataset Preparation
  We reorganize the satellite video super-resolution data set named [*Jilin-189*](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) proposed in our previous work [MSDTGP](https://github.com/XY-boy/MSDTGP) to ensure the data directory structure is consistent with the [*Vimeo-90K*](http://toflow.csail.mit.edu/). 
